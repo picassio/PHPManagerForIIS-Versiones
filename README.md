@@ -1,6 +1,5 @@
 # PHPManagerForIIS-Versiones
 
-Versiones para cargar un manager PHP en IIS (Probadas)
 
 PHPManagerForIIS-1.2.0-x64 - IIS 7.msi
 
